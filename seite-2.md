@@ -30,5 +30,11 @@ Smart Contracts based on Blockchain technology enable automatic contracts that t
 
 ## 2.5 Legal Boundary Conditions
 
+## 2.6 Sonstiges
 
+Smart Contract: 3 Varianten
+
+* Ein einzigen smart contract \(einsehbar für alle Parteien\)
+* mehrere immer ausführen \(Mehrfacharbeit und Kosten für jeden Contract\)
+* mehrere aber nur einen ausführen \(Mehrfacharbeit und Logik komplex welcher auszuführen\)
 
