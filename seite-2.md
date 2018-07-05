@@ -11,6 +11,11 @@ The term hackathon is a neologism from the word "hacking" and "marathon" and ref
 
 ## 2.2 Blockchain-Technology
 
+“The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value.”  
+Don & Alex Tapscott, Blockchain Revolution \(2016\)
+
+
+
 ## 2.3 Ethereum
 
 ## 2.4 Smart Contracts
