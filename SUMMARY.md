@@ -7,6 +7,6 @@
 * [4. llustration of the Business Model in the SGAM](4.-llustration-of-the-business-model-in-the-sgam.md)
 * [5. Physical implementation in a Test Network](5.-physical-implementation-in-a-test-network.md)
 * [6. Conclusion](6.-conclusion.md)
-* [7. Bibliography](7.-bibliography.md)
+* [7. References](7.-bibliography.md)
 * [Notes](notes.md)
 
