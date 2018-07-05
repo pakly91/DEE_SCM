@@ -1,5 +1,7 @@
 # 1. Introduction
 
+## 1. Introduction
+
 Seit… gewinnen DL-Technologien durch Vorfälle, welche die Konsequenzen des Versagens zentraler Strukturen aufgezeigt haben\[1\]\[2\]\[3\], zunehmend an Bedeutung. Die bekannteste Anwendung findet in der Blockchain statt, in welcher nach einem Validierungsprozess die Einträge in die DL eingetragen und durch kryptografische Signaturen miteinander verkettet werden.
 
 ### 1.1 Projektaufgabe
@@ -20,9 +22,11 @@ Die Gruppe Business Case and Business Documentation ist für das Erstellen des H
 
 #### Technical implementation and Documentation
 
-
+Mitglieder der Gruppe Technical Implementation and Documentation sind dafür zuständig, die von  der Gruppe Business Case and Business Documentation erstellten Szenarien mit geeigneten Technologien und Resosurcen umzusetzen. Hierfür müssen eine Blockchain eingerichtet werden, die Kommunikation zwischen den Knoten und Minern sichergestellt werden und ein Smart Contract erstellt werden. Das Vorgehen für die Umsetzung wird in den nachfolgenden Kapiteln dokumentiert. Ricardo Czernotzky und Mustafa Satin sind hierfür zuständig.
 
 #### Video creation and Presentation
+
+Zum besseren Verständnis wird ein kurzes Erklärvideo und eine Präsentation erstellt, die am Ende des Hackathons vorgestellt werden. Diese Dateien umfassen das Szenario und den entsprechenden Lösungsansatz auf eine verständliche Art und Weise erläutert. Hierfür sind Rabia Karatas und Waleri Janzen verantwortlich.
 
 #### Consulting
 
