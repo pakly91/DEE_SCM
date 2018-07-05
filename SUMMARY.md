@@ -8,4 +8,5 @@
 * [5. Physical implementation in a Test Network](5.-physical-implementation-in-a-test-network.md)
 * [6. Conclusion](6.-conclusion.md)
 * [7. Bibliography](7.-bibliography.md)
+* [Notes](notes.md)
 

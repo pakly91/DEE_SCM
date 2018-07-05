@@ -1,0 +1,28 @@
+# Notes
+
+**Laptop Mustafa:** 
+
+* Miner2
+* IP: 10.0.0.122
+* Account0: 0xd04849700624743a498697d6adb30e51aafc48dd
+* Account1: 0x29ed05167406602d5163e41edd79e0eaf4627f22
+* "enode://9a9b5f2dd971ef3e24bf1de63ae436f1f544ad110aca19e557d9f3200c796d8536335a9811f1c0b3db816ff8361192de1499c8508280a73f1ec46f69365a5bf7@10.0.0.122:30304"
+
+
+
+Laptop Ricardo
+
+* Miner1
+* IP: 10.0.0.107
+* Account0: "0x329026ebd6c29fa6bb573114f8f0e3a2f44f5c38"
+* Account1: "0x7a6fa90649ba5eececa8fd649f12c8efacee5ae4"
+* "enode://dd61ac393d4e86c252807e2354672b5137da7b511e2b10cfce7deb984cb05fa875a576533200942e5cdb259221682dce0698c0442c60b8e086a50ac2027d3466@10.0.0.107:30303"
+
+
+
+Node1
+
+* IP: 10.0.0.106
+* Account1:
+* Account0: "0x7a6fa90649ba5eececa8fd649f12c8efacee5ae4"
+
