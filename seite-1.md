@@ -32,7 +32,11 @@ Zum besseren Verständnis wird ein kurzes Erklärvideo und eine Präsentation er
 
 Zur Untersützung steht dem Team ein Experte zur Verfügung, der sich bereits vor der Veranstaltung in das Thema eingearbeitet hat. Dieser hilft hauptsächlich bei der technischen Umsetzung, aber auch bei der Kommunikation zwischen dem technisch orientierten Team und dem geschäftsorientierten Team. Hierfür war Alex Montemayor zuständig.
 
-### 1.3 Konzept
+### 1.3 Konzeptidee
+
+
+
+![](.gitbook/assets/screenshot-24.png)
 
 ### 1.4 Vorgehen
 
