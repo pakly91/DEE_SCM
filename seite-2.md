@@ -14,6 +14,8 @@ The term hackathon is a neologism from the word "hacking" and "marathon" and ref
 “The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value.”  
 Don & Alex Tapscott, Blockchain Revolution \(2016\)
 
+There are two different kinds of blockchain technologies. The permissioned and the permissionless type. The permissionless blockchain \(also known as "public"\) has open read and write access and has anonymous actors. The public blockchain is slower than its counterpart. The permissioned, or private blockchain is faster than the permissionless, ahs pre-approved and known participants and permissioned read and write access.
+
 
 
 ## 2.3 Ethereum
