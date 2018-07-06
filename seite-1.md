@@ -38,11 +38,30 @@ Zur Untersützung steht dem Team ein Experte zur Verfügung, der sich bereits vo
 
 Das Projekt wird im Rahmen eines Hackathons bearbeitet. Der Ablauf eines [Hackathons ](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/edit/drafts/-LGihJb7-sXzR68MafNF/seite-2#2-1-hackathon)wird im folgenden Kapitel noch erläutert. Es handelt sich dabei um eine agile Lernmethode im Rahmen eines temporär existierenden Labors. Hier werden Verantwortlichkeiten für den Ablauf des Projekts definiert und Aufgaben zugeteilt. Diese Aufgaben und Verantwortlichkeiten passen sich entsprechend der aktuellen Situation an und überschneiden sich.
 
-Die Prinzipien dieser agilen Lernmethode lassen sich dabei aus den sogenannten agilen Prinzipien des "Agilen Manifests" ableiten. Ein Ausschnitt hiervon sind die schnelle Bereitstellung, Kontinuität des Lernens, cross-funktionales Lernen und Kommunikation, sowie das Bilden von Lern Teams, das Erzielen von Lernerfolgen im operativen Alltag und die Reflektion. Diese Prinzipien werden durch das Wesen eines Hackathons erfüllt.
+Die Prinzipien dieser agilen Lernmethode lassen sich dabei aus den sogenannten agilen Prinzipien des "Agilen Manifests" ableiten. Ein Ausschnitt hiervon sind die schnelle Bereitstellung, Kontinuität des Lernens, cross-funktionales Lernen und Kommunikation, sowie das Bilden von Lern Teams, das Erzielen von Lernerfolgen im operativen Alltag und die Reflektion. Diese Prinzipien werden schon durch das Wesen eines Hackathons erfüllt.
 
-Preparation Meeting
+An den einzelnen Tagen des Hackathons wurden die folgenden Aufgaben berarbeitet.
 
-Hackathon Tag 1
+#### Preparation Meeting
 
-Hackathon Tag 2
+* Teamfindung
+* Rollenverteilung
+* Schaffen eines einheitlichen Versändnisses für die Aufgabe
+* grobe Aufgabenverteilung
+
+#### Hackathon Tag 1
+
+* Aufbau private Blockchain \(Raspberrys aufsetzen, Miner aufsetzen\)
+* Diagramme auf Business Seite
+* detaillierte Aufgabenverteilung
+* Smart Contract Programmierung
+* Dokumentation
+
+#### Hackathon Tag 2
+
+* Smart Contract Fertigstellung
+* Testen der Implementierung
+* Videoerstellung
+* Dokumentation
+* Präsentation und Abschluss
 
