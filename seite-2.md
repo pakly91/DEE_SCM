@@ -16,7 +16,7 @@ Don & Alex Tapscott, Blockchain Revolution \(2016\)
 
 There are two different kinds of blockchain technologies. The permissioned and the permissionless type. The permissionless blockchain \(also known as "public"\) has open read and write access and has anonymous actors. The public blockchain is slower than its counterpart. The permissioned, or private blockchain is faster than the permissionless, ahs pre-approved and known participants and permissioned read and write access.
 
-
+The central component of the blockchain is the incorruptible digital ledger. This means, that the ledger connot be changed, once the transactions are saved in the blockchain. There are methods that ensure that nly valid transactions are saved. This means that the blockchain technology can improve security, authenticity, privacy and accessibility in many different industry sectors. For the energy sector, the blockchain can enable decentralized transactions with lower costs and a very high level of security and confidentiality. By using [smart ](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/edit/drafts/-LGjDzSUX-JiosmKTmfe/seite-2#2-4-smart-contracts)[contracts ](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/edit/drafts/-LGjDzSUX-JiosmKTmfe/seite-2#2-4-smart-contracts)the process of the transactions can be automated.
 
 ## 2.3 Ethereum
 
