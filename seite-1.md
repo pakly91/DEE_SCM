@@ -6,11 +6,7 @@ Seit… gewinnen DL-Technologien durch Vorfälle, welche die Konsequenzen des Ve
 
 ### 1.1 Projektaufgabe
 
-Die Aufgabe des Projekts bestand darin, eine private Blockchain aufzubauen und im Rahmen eines Business Case in der Energiewirtschaft 
-
-Simulation von verkaufen und kaufen von energie in einem exemplarischen netzwerk mit blockchain und 5 akteuren
-
-ETHEREUM Blackchain, 3 miner, 2 nodes, smart contracts, microgrid \(15 min matlab 24hrs\), buy and sell energy every 15 min/24hrs, 
+Die Aufgabe des Projekts bestand darin, eine private Ethereum Blockchain aufzubauen und im Rahmen eines Business Case aus der Energiewirtschaft, dieses mit fünf Nodes zu betreiben. Die fünf Knoten repräsentieren dabei Akteure in der Energiewirtschaft. Das exemplarische Netzwerk erhält dabei Daten über die Kapazität und Kosten von Strom aus einer Matlab Simulation. Auf diesen Daten basierend soll ein Smart Contract zwischen den Akteuren geschlossen werden.
 
 ### 1.2 Das Team
 
