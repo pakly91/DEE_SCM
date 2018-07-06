@@ -77,6 +77,8 @@ To support the project organization, the web-based project management software T
 
 #### WhatsApp
 
+For the short-term communication and the rapid exchange of information, a Whatsapp group was created.
+
 ![](.gitbook/assets/whatsapp-image-2018-07-06-at-15.30.46%20%281%29.jpeg)
 
 #### Google Drive
