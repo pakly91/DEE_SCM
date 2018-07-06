@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [DEE Hackathon](README.md)
 * [1. Introduction](seite-1.md)
 * [2. Theoretical Background](seite-2.md)
 * [3.Microgrid of Reutlingen University](3.microgrid-of-reutlingen-university.md)

@@ -1,8 +1,8 @@
 ---
-description: Blockchain DEE Project
+description: Smart Contract
 ---
 
-# Home
+# DEE Hackathon
 
 ![](.gitbook/assets/hackathon-logo.jpg)
 
