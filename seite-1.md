@@ -69,7 +69,9 @@ An den einzelnen Tagen des Hackathons wurden die folgenden Aufgaben berarbeitet.
 
 ## 1.5 Projektorganisation
 
-Trello
+To support the project organization, the web-based project management software Trello is used. There, the first tasks were entered at the beginning, which were gradually expanded. In addition, the responsibilities were stored there and the status of the tasks was tracked.
+
+![](.gitbook/assets/screenshot-22.png)
 
 WhatsApp
 
