@@ -67,3 +67,11 @@ An den einzelnen Tagen des Hackathons wurden die folgenden Aufgaben berarbeitet.
 * Dokumentation
 * Präsentation und Abschluss
 
+## 1.5 Projektorganisation
+
+Trello
+
+WhatsApp
+
+Drive
+
