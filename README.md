@@ -1,8 +1,10 @@
 ---
-description: Blockchain DEE Projekt
+description: Blockchain DEE Project
 ---
 
 # Home
 
-Willkommen auf der Wiki-Seite des Hackathon Projekts mit der Bezeichnung "Blockchain DEE". Auf diesen Wiki-Seiten werden das Projektteam, das methodische Vorgehen, die entwickelten Konzepte sowie Modelle und das implementierte System beschrieben.
+![](.gitbook/assets/hackathon-logo.jpg)
+
+Welcome to the wiki of the project "Blockchain DEE" of the Reutlingen University. In this wiki the project team, the approach, the developed concepts and models and the implemented pilot system are described.
 
