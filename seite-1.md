@@ -30,7 +30,19 @@ Zum besseren Verständnis wird ein kurzes Erklärvideo und eine Präsentation er
 
 #### Consulting
 
+Zur Untersützung steht dem Team ein Experte zur Verfügung, der sich bereits vor der Veranstaltung in das Thema eingearbeitet hat. Dieser hilft hauptsächlich bei der technischen Umsetzung, aber auch bei der Kommunikation zwischen dem technisch orientierten Team und dem geschäftsorientierten Team. Hierfür war Alex Montemayor zuständig.
+
 ### 1.3 Konzept
 
 ### 1.4 Vorgehen
+
+Das Projekt wird im Rahmen eines Hackathons bearbeitet. Der Ablauf eines [Hackathons ](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/edit/drafts/-LGihJb7-sXzR68MafNF/seite-2#2-1-hackathon)wird im folgenden Kapitel noch erläutert. Es handelt sich dabei um eine agile Lernmethode im Rahmen eines temporär existierenden Labors. Hier werden Verantwortlichkeiten für den Ablauf des Projekts definiert und Aufgaben zugeteilt. Diese Aufgaben und Verantwortlichkeiten passen sich entsprechend der aktuellen Situation an und überschneiden sich.
+
+Die Prinzipien dieser agilen Lernmethode lassen sich dabei aus den sogenannten agilen Prinzipien des "Agilen Manifests" ableiten. Ein Ausschnitt hiervon sind die schnelle Bereitstellung, Kontinuität des Lernens, cross-funktionales Lernen und Kommunikation, sowie das Bilden von Lern Teams, das Erzielen von Lernerfolgen im operativen Alltag und die Reflektion. Diese Prinzipien werden durch das Wesen eines Hackathons erfüllt.
+
+Preparation Meeting
+
+Hackathon Tag 1
+
+Hackathon Tag 2
 
