@@ -1,7 +1,3 @@
----
-description: Smart Contract
----
-
 # DEE Hackathon
 
 ![](.gitbook/assets/hackathon-logo.jpg)
