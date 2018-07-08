@@ -81,3 +81,7 @@ For the short-term communication and the rapid exchange of information, a Whatsa
 
 **Google Drive**
 
+For the exchange of large documents, files and created diagrams of the DEE students, a Google Drive folder has been set up.
+
+![](.gitbook/assets/googledrive.png)
+
