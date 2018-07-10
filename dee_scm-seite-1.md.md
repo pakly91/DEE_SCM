@@ -34,42 +34,42 @@ Zur Untersützung steht dem Team ein Experte zur Verfügung, der sich bereits vo
 
 ![](.gitbook/assets/screenshot-24.png)
 
-### 1.4 Vorgehen
+### 1.4 Method
 
-Das Projekt wird im Rahmen eines Hackathons bearbeitet. Der Ablauf eines [Hackathons](https://dee-scm-blockchain-project.gitbook.io/dee-scm/%7E/edit/drafts/-LGihJb7-sXzR68MafNF/seite-2#2-1-hackathon) wird im folgenden Kapitel noch erläutert. Es handelt sich dabei um eine agile Lernmethode im Rahmen eines temporär existierenden Labors. Hier werden Verantwortlichkeiten für den Ablauf des Projekts definiert und Aufgaben zugeteilt. Diese Aufgaben und Verantwortlichkeiten passen sich entsprechend der aktuellen Situation an und überschneiden sich.
+The project will be processed as part of a [hackathon](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/drafts/-LH4UOL87dGd8p-YwPUF/primary/2.-theoretical-background#2-1-hackathon). The course of a hackathon will be explained in the following chapter. It is an agile learning method in the context of a temporary laboratory. Here, responsibilities for the project process are defined and tasks assigned. These tasks and responsibilities adapt to the current situation and overlap.
 
-Die Prinzipien dieser agilen Lernmethode lassen sich dabei aus den sogenannten agilen Prinzipien des "Agilen Manifests" ableiten. Ein Ausschnitt hiervon sind die schnelle Bereitstellung, Kontinuität des Lernens, cross-funktionales Lernen und Kommunikation, sowie das Bilden von Lern Teams, das Erzielen von Lernerfolgen im operativen Alltag und die Reflektion. Diese Prinzipien werden schon durch das Wesen eines Hackathons erfüllt.
+The principles of this agile learning method can be derived from the so-called agile principles of the "Agile Manifesto". An excerpt from this is the rapid provision, continuity of learning, cross-functional learning and communication, as well as the formation of learning teams, the achievement of learning successes in everyday operations and the reflection. These principles are already fulfilled by the nature of a hackathon.
 
-An den einzelnen Tagen des Hackathons wurden die folgenden Aufgaben berarbeitet.
+On the individual days of the hackathon, the following tasks were revised:
 
 **Preparation Meeting**
 
-* Teamfindung
-* Rollenverteilung
-* Schaffen eines einheitlichen Versändnisses für die Aufgabe
-* grobe Aufgabenverteilung
+* team-discovery 
+* role allocation 
+* creating a common understanding of the task 
+* task distribution
 
-**Hackathon Tag 1**
+**Hackathon Day 1**
 
-* Aufbau private Blockchain \(Raspberrys aufsetzen, Miner aufsetzen\)
-* Diagramme auf Business Seite
-* detaillierte Aufgabenverteilung
-* Smart Contract Programmierung
-* Dokumentation
+* Set up private blockchain \(set up raspberry, set up miner\) 
+* create business diagrams 
+* detailed task distribution 
+* Smart Contract Programming 
+* start work on the documentation
 
-**Hackathon Tag 2**
+**Hackathon Day 2**
 
-* Smart Contract Fertigstellung
-* Testen der Implementierung
-* Videoerstellung
-* Dokumentation
-* Präsentation und Abschluss
+* Smart Contract completion 
+* testing the implementation 
+* creation of a movie
+* further work on the documentation 
+* preparing the final presentation and conclusion
 
-### 1.5 Projektorganisation
+### 1.5 Project organization
 
 **Trello**
 
-To support the project organization, the web-based project management software Trello is used. There, the first tasks were entered at the beginning, which were gradually expanded. In addition, the responsibilities were stored there and the status of the tasks was tracked.
+To support the project organization, the web-based project management software Trello was used. The first tasks were entered at the beginning, which were gradually expanded. In addition, the responsibilities were stored there and the status of the tasks was tracked.
 
 ![](.gitbook/assets/screenshot-22.png)
 
