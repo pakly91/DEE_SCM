@@ -4,7 +4,7 @@
 
 Seit… gewinnen DL-Technologien durch Vorfälle, welche die Konsequenzen des Versagens zentraler Strukturen aufgezeigt haben\[1\]\[2\]\[3\], zunehmend an Bedeutung. Die bekannteste Anwendung findet in der Blockchain statt, in welcher nach einem Validierungsprozess die Einträge in die DL eingetragen und durch kryptografische Signaturen miteinander verkettet werden.
 
-### 1.1 Projektaufgabe
+### 1.1 Projektaufgabe und Erwartungen
 
 Die Aufgabe des Projekts bestand darin, eine private Ethereum Blockchain aufzubauen und im Rahmen eines Business Case aus der Energiewirtschaft, dieses mit fünf Nodes zu betreiben. Die fünf Knoten repräsentieren dabei Akteure in der Energiewirtschaft. Das exemplarische Netzwerk erhält dabei Daten über die Kapazität und Kosten von Strom aus einer Matlab Simulation. Auf diesen Daten basierend soll ein Smart Contract zwischen den Akteuren geschlossen werden.
 
