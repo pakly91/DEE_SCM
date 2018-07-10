@@ -4,33 +4,35 @@
 
 Seit… gewinnen DL-Technologien durch Vorfälle, welche die Konsequenzen des Versagens zentraler Strukturen aufgezeigt haben\[1\]\[2\]\[3\], zunehmend an Bedeutung. Die bekannteste Anwendung findet in der Blockchain statt, in welcher nach einem Validierungsprozess die Einträge in die DL eingetragen und durch kryptografische Signaturen miteinander verkettet werden.
 
-### 1.1 Projektaufgabe und Erwartungen
+### 1.1 Project task and Expectations
 
-Die Aufgabe des Projekts bestand darin, eine private Ethereum Blockchain aufzubauen und im Rahmen eines Business Case aus der Energiewirtschaft, dieses mit fünf Nodes zu betreiben. Die fünf Knoten repräsentieren dabei Akteure in der Energiewirtschaft. Das exemplarische Netzwerk erhält dabei Daten über die Kapazität und Kosten von Strom aus einer Matlab Simulation. Auf diesen Daten basierend soll ein Smart Contract zwischen den Akteuren geschlossen werden.
+The task of the project was to build a private Ethereum Blockchain with five nodes and operate it in the context of a business case from the energy industry. The five nodes represent actors in the energy industry. The exemplary network receives data on the capacity and cost of electricity from a Matlab simulation. Based on these data, a smart contract has to be concluded between the actors.
 
-### 1.2 Das Team
+### 1.2 Team
 
 **Projectmanagement, Documentation and Team Support**
 
-Das Projektmanagement muss das Vorgehen der gesamten Gruppe planen und organisieren, Aufgabenpakete zuteilen und die Kommunikation zwischen der Business und Technical sicherstellen. Zusätzlcih hat das Projektmanagement aufgrund der knappen Kapazitäten bei der Erstellung der Dokumentation und bei der technischen Umsetzung unterstützt. Hierfür waren Philipp Noack und Jan Niclas Weiss zuständig.
+The project management must plan and organize the actions of the entire group, allocate task packages and ensure communication between the business and the technical perspective. In addition, the project management has supported in the documentation and the technical implementation due to the scarce capacity. Philipp Noack and Jan Niclas Weiss were responsible for this task.
 
 **Business Case and Business Documentation**
 
-Die Gruppe Business Case and Business Documentation ist für das Erstellen des High Level Business Case und dessen Dokumentation zuständig. Hierfür werden verschiedenste Modelle wie bspw das Business Model Canvas, Activity Diagramm, Use Case Diagramme, Sequenz Diagramm und Value Proposition Canvas erstellt. Sie beschreiben damit die Ausgangslage und die übergeordnete Idee auf der die Umsetzung des Projekts basiert. Diese Aufgaben wurden von Lorenz Hajek, Patrick Klyeisen, Joey Kiefer.
+The Business Case and Business Documentation group is responsible for creating the high level business case and its documentation. Various models are created for this purpose, such as the Business Model Canvas, Activity Diagram, Use Case Diagrams, Sequence Diagram and Value Proposition Canvas. They describe the starting position and the overall idea on which the implementation of the project is based. These assignments were done and documented in the following chapters by Lorenz Hajek, Patrick Klyeisen and Joey Kiefer.
 
 **Technical implementation and Documentation**
 
-Mitglieder der Gruppe Technical Implementation and Documentation sind dafür zuständig, die von der Gruppe Business Case and Business Documentation erstellten Szenarien mit geeigneten Technologien und Resosurcen umzusetzen. Hierfür müssen eine Blockchain eingerichtet werden, die Kommunikation zwischen den Knoten und Minern sichergestellt werden und ein Smart Contract erstellt werden. Das Vorgehen für die Umsetzung wird in den nachfolgenden Kapiteln dokumentiert. Ricardo Czernotzky und Mustafa Satin sind hierfür zuständig.
+Members of the Technical Implementation and Documentation group are responsible for implementing the scenarios created by the Business Case and Business Documentation group with appropriate technologies and resources. This requires setting up a blockchain, ensuring communication between the nodes and miners, and creating a smart contract. The procedure for implementation is documented in the following chapters. Ricardo Czernotzky and Mustafa Satin are responsible for this.
 
 **Video creation and Presentation**
 
-Zum besseren Verständnis wird ein kurzes Erklärvideo und eine Präsentation erstellt, die am Ende des Hackathons vorgestellt werden. Diese Dateien umfassen das Szenario und den entsprechenden Lösungsansatz auf eine verständliche Art und Weise erläutert. Hierfür sind Rabia Karatas und Waleri Janzen verantwortlich.
+For a better understanding a short explanatory video and a presentation has to be prepared, which will be presented at the end of the hackathon. These files include the scenario and the chosen approach explained in an understandable manner. Rabia Karatas and Waleri Janzen are responsible for this.
 
-**Consulting**
+####  Cross section functions
 
-Zur Untersützung steht dem Team ein Experte zur Verfügung, der sich bereits vor der Veranstaltung in das Thema eingearbeitet hat. Dieser hilft hauptsächlich bei der technischen Umsetzung, aber auch bei der Kommunikation zwischen dem technisch orientierten Team und dem geschäftsorientierten Team. Hierfür war Alejandro Montemayor zuständig.
+To support the team, an expert is available, who has already worked in the topic before the event. This helps mainly in the technical implementation, but also in the communication between the technically oriented and the business-oriented team. Alejandro Montemayor was responsible for this.
 
-### 1.3 Konzeptidee
+### 1.3 Conceptual idea
+
+hier noch text
 
 ![](.gitbook/assets/screenshot-24.png)
 
