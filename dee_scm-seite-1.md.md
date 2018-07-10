@@ -44,16 +44,21 @@ On the individual days of the hackathon, the following tasks were revised:
 
 **Preparation Meeting**
 
+* set up Google Drive
+* set up Whatsapp Group
+* set up Trello board
 * team-discovery 
 * role allocation 
 * creating a common understanding of the task 
 * task distribution
+*  set up Gitbook-Project
 
 **Hackathon Day 1**
 
-* Set up private blockchain \(set up raspberry, set up miner\) 
-* create business diagrams 
-* detailed task distribution 
+* detailed task distribution
+* set up private blockchain \(set up raspberry, set up miner\) 
+* create business diagrams
+*  define Minimum Viable Product 
 * Smart Contract Programming 
 * start work on the documentation
 
@@ -61,7 +66,7 @@ On the individual days of the hackathon, the following tasks were revised:
 
 * Smart Contract completion 
 * testing the implementation 
-* creation of a movie
+* creation of a video
 * further work on the documentation 
 * preparing the final presentation and conclusion
 
