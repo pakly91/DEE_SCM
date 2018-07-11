@@ -34,7 +34,7 @@ To support the team, an expert is available, who has already worked in the topic
 
 ### 1.3 Conceptual idea
 
-hier noch text
+The following figure shows the basic concept of the smart contract in the use case environment. The programmed and deployed smart contract will be enriched with supply and demand data from the Matlab simulation \(1\). Then the Smart Contract is written to the blockchain \(2\) and gets verified from each node \(3\). After the successful verification by the network, the transaction gets executed \(4\), which means that the electricity purchased by the customer gets paid in ether and the appropriate amount of electricity is made available to him \(5\).
 
 ![](.gitbook/assets/screenshot-24.png)
 
