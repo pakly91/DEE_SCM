@@ -2,7 +2,9 @@
 
 ## 1. Introduction
 
-Seit… gewinnen DL-Technologien durch Vorfälle, welche die Konsequenzen des Versagens zentraler Strukturen aufgezeigt haben\[1\]\[2\]\[3\], zunehmend an Bedeutung. Die bekannteste Anwendung findet in der Blockchain statt, in welcher nach einem Validierungsprozess die Einträge in die DL eingetragen und durch kryptografische Signaturen miteinander verkettet werden.
+Since Bitcoin hit the € 15,000 mark in December 2017, cryptocurrencies and the blockchain are gaining more and more popularity. Companies and research institutes are increasingly devoting themselves to the new technology in order to take advantage of their benefits. The energy sector can also benefit from the peculiarities of the blockchain. These include lower transaction costs, increased resilience, privacy and authenticity.
+
+The goal of this hackathon is to show the technical feasibility of Bockchain based P2P transactions in a use case of the energy industry and thus make the advantages mentioned tangible.
 
 ### 1.1 Project task and Expectations
 
