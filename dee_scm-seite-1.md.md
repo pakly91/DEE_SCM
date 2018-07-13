@@ -4,11 +4,11 @@
 
 Since Bitcoin hit the € 15,000 mark in December 2017, cryptocurrencies and the blockchain are gaining more and more popularity. Companies and research institutes are increasingly devoting themselves to the new technology in order to take advantage of their benefits. The energy sector can also benefit from the peculiarities of the blockchain. These include lower transaction costs, increased resilience, privacy and authenticity.
 
-The goal of this hackathon is to show the technical feasibility of Bockchain based P2P transactions in a use case of the energy industry and thus make the advantages mentioned tangible.
+The goal of this [hackathon ](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-1-hackathon)is to show the technical feasibility of [Bockchain ](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-2-blockchain-technology)based P2P transactions in a use case of the energy industry and thus make the advantages mentioned tangible.
 
 ### 1.1 Project task and Expectations
 
-The task of the project was to build a private Ethereum Blockchain with five nodes and operate it in the context of a business case from the energy industry. The five nodes represent actors in the energy industry. The exemplary network receives data on the capacity and cost of electricity from a Matlab simulation. Based on these data, a smart contract has to be concluded between the actors.
+The task of the project was to build a private Ethereum [Blockchain ](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-2-blockchain-technology)with five nodes and operate it in the context of a business case from the energy industry. The five nodes represent actors in the energy industry. The exemplary network receives data on the capacity and cost of electricity from a Matlab simulation. Based on these data, a smart contract has to be concluded between the actors.
 
 ### 1.2 Team
 
@@ -34,17 +34,17 @@ To support the team, an expert is available, who has already worked in the topic
 
 ### 1.3 Conceptual idea
 
-The following figure shows the basic concept of the smart contract in the use case environment. The programmed and deployed smart contract will be enriched with supply and demand data from the Matlab simulation \(1\). Then the Smart Contract is written to the blockchain \(2\) and gets verified from each node \(3\). After the successful verification by the network, the transaction gets executed \(4\), which means that the electricity purchased by the customer gets paid in ether and the appropriate amount of electricity is made available to him \(5\).
+The following figure shows the basic concept of the smart contract in the use case environment. The programmed and deployed [Smart Contract](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-4-smart-contracts) will be enriched with supply and demand data from the Matlab simulation \(1\). Then the [Smart Contract](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-4-smart-contracts) is written to the [blockchain ](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-2-blockchain-technology)\(2\) and gets verified from each node \(3\). After the successful verification by the network, the transaction gets executed \(4\), which means that the electricity purchased by the customer gets paid in ether and the appropriate amount of electricity is made available to him \(5\).
 
 ![](.gitbook/assets/screenshot-24.png)
 
 ### 1.4 Method
 
-The project will be processed as part of a [hackathon](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/drafts/-LH4UOL87dGd8p-YwPUF/primary/2.-theoretical-background#2-1-hackathon). The course of a hackathon will be explained in the following chapter. It is an agile learning method in the context of a temporary laboratory. Here, responsibilities for the project process are defined and tasks assigned. These tasks and responsibilities adapt to the current situation and overlap.
+The project will be processed as part of a [hackathon](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/drafts/-LH4UOL87dGd8p-YwPUF/primary/2.-theoretical-background#2-1-hackathon). The course of a [hackathon ](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/drafts/-LH4UOL87dGd8p-YwPUF/primary/2.-theoretical-background#2-1-hackathon)will be explained in the following chapter. It is an agile learning method in the context of a temporary laboratory. Here, responsibilities for the project process are defined and tasks assigned. These tasks and responsibilities adapt to the current situation and overlap.
 
-The principles of this agile learning method can be derived from the so-called agile principles of the "Agile Manifesto". An excerpt from this is the rapid provision, continuity of learning, cross-functional learning and communication, as well as the formation of learning teams, the achievement of learning successes in everyday operations and the reflection. These principles are already fulfilled by the nature of a hackathon.
+The principles of this agile learning method can be derived from the so-called agile principles of the "Agile Manifesto". An excerpt from this is the rapid provision, continuity of learning, cross-functional learning and communication, as well as the formation of learning teams, the achievement of learning successes in everyday operations and the reflection. These principles are already fulfilled by the nature of a [hackathon](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/drafts/-LH4UOL87dGd8p-YwPUF/primary/2.-theoretical-background#2-1-hackathon).
 
-On the individual days of the hackathon, the following tasks were revised:
+On the individual days of the [hackathon](https://dee-scm-blockchain-project.gitbook.io/dee-scm/~/drafts/-LH4UOL87dGd8p-YwPUF/primary/2.-theoretical-background#2-1-hackathon), the following tasks were revised:
 
 **Preparation Meeting**
 
