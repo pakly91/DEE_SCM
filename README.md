@@ -1,4 +1,4 @@
-# DEE Hackathon
+# DEE SCM Hackathon
 
 ## Hackathon Hochschule Reutlingen {#hackathon-hochschule-reutlingen}
 
