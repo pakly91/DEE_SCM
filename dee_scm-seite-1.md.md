@@ -36,7 +36,7 @@ To support the team, an expert is available, who has already worked in the topic
 
 The following figure shows the basic concept of the smart contract in the use case environment. The programmed and deployed [Smart Contract](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-4-smart-contracts) will be enriched with supply and demand data from the Matlab simulation \(1\). Then the [Smart Contract](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-4-smart-contracts) is written to the [blockchain ](https://hsrt.gitbook.io/dee-scm/~/edit/drafts/-LHJ1-JCH1Ve9ueapP2N/2.-theoretical-background#2-2-blockchain-technology)\(2\) and gets verified from each node \(3\). After the successful verification by the network, the transaction gets executed \(4\), which means that the electricity purchased by the customer gets paid in ether and the appropriate amount of electricity is made available to him \(5\).
 
-![](.gitbook/assets/screenshot-24.png)
+![Basic concept of the smart contract](.gitbook/assets/screenshot-24.png)
 
 ### 1.4 Method
 
@@ -80,7 +80,7 @@ On the individual days of the [hackathon](https://dee-scm-blockchain-project.git
 
 To support the project organization, the web-based project management software Trello was used. The first tasks were entered at the beginning, which were gradually expanded. In addition, the responsibilities were stored there and the status of the tasks was tracked.
 
-![](.gitbook/assets/screenshot-22.png)
+![Screenshot of the Trello board](.gitbook/assets/screenshot-22.png)
 
 #### W**hatsApp**
 
@@ -92,5 +92,5 @@ For the short-term communication and the rapid exchange of information, a Whatsa
 
 For the exchange of large documents, files and created diagrams of the DEE students, a Google Drive folder has been set up.
 
-![](.gitbook/assets/googledrive.png)
+![Screenshot of the Google Drive](.gitbook/assets/googledrive.png)
 
